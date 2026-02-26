@@ -69,6 +69,105 @@ is the entire history of human civilisation.
 
 -----
 
+## Start Here — The Simplest Example
+
+Before the geopolitics.
+Before the corporate lobbying.
+Before the civilisational scale.
+
+Start here:
+
+```
+A person wakes up on Monday morning.
+
+They know they should go to the gym.
+They know they should eat better.
+They know exactly what their body needs.
+They know exactly what happens if they don't.
+They have known this for years.
+
+They do the opposite.
+Every day.
+With full knowledge.
+Full awareness.
+Zero ambiguity about the consequence.
+```
+
+```
+DIAGRAM — The Gym Problem:
+
+WHAT THE PERSON HAS:
+
+Knowledge that exercise is good:        ████████████  100%
+Knowledge that poor diet harms them:    ████████████  100%
+Understanding of long-term consequence: ████████████  100%
+Motivation on Monday morning:           ████████████  100%
+Motivation on Friday evening:           ████░░░░░░░░   40%
+
+Geometric invariant making the gym
+non-negotiable regardless of mood:      ░░░░░░░░░░░░    0%
+
+RESULT:
+Goes to gym twice in January.
+Stops by February.
+Knows exactly why they stopped.
+Knows exactly what they should do.
+Does not do it.
+The knowing makes it worse. Not better.
+```
+
+```
+Society's response to this person:
+
+"You need more motivation."
+"Read another book about discipline."
+"Watch another documentary."
+"Follow another fitness influencer."
+"Understand the benefits better."
+"Here is more knowledge about consequences."
+
+More L-axis. Every time.
+The problem is C-axis. Every time.
+
+C ⊥ L.
+Maximum knowledge of consequence
+produces zero guaranteed behaviour change
+without the invariant.
+```
+
+```
+THIS IS WHY WILLPOWER IS MISUNDERSTOOD.
+
+Willpower is not a cognitive resource.
+It is a geometric one.
+
+People who "have discipline"
+do not think harder about going to the gym.
+They have installed an invariant
+that makes not going
+structurally more uncomfortable than going.
+
+The behaviour follows the geometry.
+Not the knowledge.
+
+The person who knows and doesn't go
+is not weaker or less intelligent
+than the person who knows and goes.
+
+They have the same knowledge.
+Different geometry.
+The invariant is either installed or it isn't.
+Knowledge cannot install it.
+Only structural change can.
+```
+
+Now scale this up.
+The same pattern.
+From one person and a gym
+to a civilisation and a planet.
+
+-----
+
 ## The Evidence — Humans Who Knew and Continued Anyway
 
 ### Case 1 — Smoking
